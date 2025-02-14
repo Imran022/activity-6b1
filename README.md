@@ -1,3 +1,5 @@
 # activity-6b1
+# Hello GitHub
 
-The project says hello github!
+A simple Java program that prints "Hello GitHub!".
+
